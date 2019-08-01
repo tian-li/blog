@@ -1,5 +1,6 @@
 # Some random things
 
+* [`NgZone` Won't Detect Event Source](https://github.com/tian-li/blog/issues/10)
 * [Things about Angular Form](https://github.com/tian-li/blog/issues/8)
 * [Angular 对有 Service 的组件进行单元测试](https://github.com/tian-li/blog/issues/7)
 * [自己遇到的JavaScript知识点 JavaScript](https://github.com/tian-li/blog/issues/6)
