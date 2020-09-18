@@ -2,6 +2,8 @@
 
 Order by most recent
 
+* [赛博记账折腾纪之部署到 AWS](https://github.com/tian-li/blog/issues/13)
+* [几个 WTF 的 bug/error](https://github.com/tian-li/blog/issues/12)
 * [Single Responsibility Principle in Practice And Don't Be Lazy](https://github.com/tian-li/blog/issues/11)
 * [`NgZone` Won't Detect Event Source](https://github.com/tian-li/blog/issues/10)
 * [Things about Angular Form](https://github.com/tian-li/blog/issues/8)
